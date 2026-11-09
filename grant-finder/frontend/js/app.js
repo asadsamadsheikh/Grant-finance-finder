@@ -46,10 +46,10 @@ async function checkHealth() {
   try {
     const res = await fetch(`${API_BASE}/api/health`);
     const data = await res.json();
-    const allOk = data.ibm_granite.includes("✓");
+    const allOk = data.ibm_granite.includes("✓") || data.status === "operational";
     badge.innerHTML = `
       <span class="status-dot ${allOk ? "status-ok" : "status-warn"}"></span>
-      <span>${allOk ? "IBM Services Active" : "Partial Config — Check .env"}</span>
+      <span>${allOk ? "All Services Active" : "Limited Mode"}</span>
     `;
   } catch {
     badge.innerHTML = `<span class="status-dot status-error"></span><span>Backend Offline</span>`;
