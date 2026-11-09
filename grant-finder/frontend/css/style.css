@@ -461,7 +461,7 @@ a:hover { text-decoration: underline; }
   border-top: 3px solid var(--brand);
 }
 .footer-inner {
-  display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 48px;
+  display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 48px;
   padding-bottom: 48px;
 }
 @media (max-width: 900px) { .footer-inner { grid-template-columns: 1fr 1fr; } }
