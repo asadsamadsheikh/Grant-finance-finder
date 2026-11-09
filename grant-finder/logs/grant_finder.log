@@ -1,0 +1,1466 @@
+2026-11-05 17:21:58,231 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 17:21:58,232 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 17:21:58,232 [INFO] main: IBM NLU:           configured
+2026-11-05 17:21:58,232 [INFO] main: IBM COS Cache:     configured
+2026-11-05 17:23:00,976 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:01,540 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:01,899 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:02,256 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:02,663 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:03,073 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:03,479 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:03,886 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:04,290 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:04,710 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:05,117 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:05,474 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:05,855 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:06,213 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:06,674 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:07,080 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:07,488 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:07,896 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:08,306 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:08,711 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:09,120 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:09,590 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:09,954 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:10,415 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:10,787 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:11,192 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:11,613 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:12,020 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:12,428 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:12,834 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:13,243 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:13,649 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:14,052 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:14,459 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:14,865 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:15,338 [INFO] watchfiles.main: 2 changes detected
+2026-11-05 17:23:16,090 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:17,362 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:17,414 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 17:23:17,414 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 17:23:17,414 [INFO] main: IBM NLU:           configured
+2026-11-05 17:23:17,415 [INFO] main: IBM COS Cache:     configured
+2026-11-05 17:23:17,728 [INFO] watchfiles.main: 6 changes detected
+2026-11-05 17:23:18,088 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:18,450 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:18,807 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:19,171 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:19,532 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:19,957 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:20,309 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:20,819 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:22,303 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:22,665 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:23,078 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:23,485 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:23,890 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:24,296 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:24,716 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:25,107 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:25,523 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:25,932 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:26,387 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:26,752 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:27,168 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:27,573 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:27,975 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:28,380 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:28,784 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:29,192 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:29,602 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:30,012 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:30,419 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:30,828 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:31,235 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:31,594 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:32,007 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:32,413 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:32,819 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:33,226 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:33,638 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:34,047 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:34,403 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:34,814 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:35,224 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:35,632 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:36,042 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:36,449 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:36,860 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:37,269 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:37,676 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:38,086 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:38,491 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:38,899 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:39,308 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:39,716 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:40,125 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:40,533 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:40,944 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:41,302 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:41,714 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:42,120 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:42,528 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:42,936 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:43,348 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:43,706 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:44,118 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:44,526 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:44,934 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:45,352 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:45,764 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:46,168 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:46,578 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:46,984 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:47,390 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:47,796 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:48,202 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:49,090 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:49,618 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:49,977 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:50,336 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:50,698 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:51,058 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:51,422 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:51,835 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:52,245 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:52,664 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:53,071 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:53,477 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:53,885 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:54,293 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:54,702 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:55,112 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:55,522 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:55,930 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:56,341 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:56,701 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:57,112 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:57,522 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:57,929 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:58,335 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:58,742 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:59,148 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:59,559 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:23:59,970 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:00,375 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:00,781 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:01,187 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:01,596 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:02,002 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:02,406 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:02,812 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:03,223 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:03,640 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:04,008 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:04,439 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:04,851 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:05,207 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:05,618 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:06,030 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:07,538 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:07,909 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:08,268 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:08,677 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:09,035 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:24:09,445 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:01,595 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 17:27:01,595 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 17:27:01,595 [INFO] main: IBM NLU:           configured
+2026-11-05 17:27:01,596 [INFO] main: IBM COS Cache:     configured
+2026-11-05 17:27:54,544 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:55,049 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:55,416 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:55,877 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:56,282 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:56,689 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:57,098 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:57,508 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:57,914 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:58,577 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:58,945 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:59,354 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:27:59,762 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:00,166 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:00,593 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:00,976 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:01,387 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:01,792 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:02,566 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:02,935 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:03,348 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:03,766 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:04,170 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:04,576 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:04,981 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:05,389 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:05,810 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:06,218 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:06,746 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:07,792 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:08,153 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:08,561 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:08,970 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:09,377 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:09,787 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:10,196 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:10,606 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:11,014 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:11,422 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:11,777 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:12,188 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:12,595 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:13,005 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:13,412 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:13,819 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:14,228 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:14,636 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:15,044 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:15,449 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:15,893 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:16,250 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:16,694 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:17,049 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:17,460 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:17,868 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:18,278 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:18,688 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:19,094 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:19,505 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:19,913 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:20,322 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:20,730 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:21,138 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:28:41,234 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 17:28:41,234 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 17:28:41,235 [INFO] main: IBM NLU:           configured
+2026-11-05 17:28:41,235 [INFO] main: IBM COS Cache:     configured
+2026-11-05 17:32:30,773 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 17:32:32,887 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_5edbfb39d9ded0276dfc11beef7f40f4.json "HTTP/1.1 404 Not Found"
+2026-11-05 17:32:35,141 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_5edbfb39d9ded0276dfc11beef7f40f4.json "HTTP/1.1 404 Not Found"
+2026-11-05 17:32:35,144 [WARNING] backend.services.cos_cache: COS set error for grants_5edbfb39d9ded0276dfc11beef7f40f4: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_5edbfb39d9ded0276dfc11beef7f40f4.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 17:32:35,145 [INFO] backend.services.grant_aggregator: Aggregated 0 grants (curated=0, live=0)
+2026-11-05 17:32:37,581 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 17:32:37,585 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 17:32:39,178 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 17:32:39,182 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 17:32:40,298 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 17:32:40,301 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 17:32:41,414 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 17:32:41,416 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 17:32:42,347 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 17:32:42,356 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 17:32:43,811 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 17:32:43,817 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 17:32:45,410 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 17:32:45,416 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 17:32:47,403 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 17:32:47,896 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 17:32:47,897 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 17:32:49,391 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 17:32:49,395 [WARNING] backend.services.eligibility_matcher: Granite analysis failed for startup_india_seed_2024: Client error '403 Forbidden' for url 'https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-05 17:32:49,422 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 17:32:49,429 [WARNING] backend.services.eligibility_matcher: Granite analysis failed for ycombinator_2024: Client error '403 Forbidden' for url 'https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-05 17:32:49,434 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 17:32:49,441 [WARNING] backend.services.eligibility_matcher: Granite analysis failed for techstars_2025: Client error '403 Forbidden' for url 'https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-05 17:34:02,818 [INFO] backend.services.proposal_generator: Generating proposal c98ee9da for grant: Startup India Seed Fund Scheme (SISFS)
+2026-11-05 17:34:04,463 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 17:34:04,470 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 17:34:04,479 [ERROR] backend.routes.proposals: Proposal generation error: Client error '403 Forbidden' for url 'https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+Traceback (most recent call last):
+  File "D:\IBM\grant-finder\backend\routes\proposals.py", line 33, in generate_proposal
+    proposal = await proposal_generator.generate_full_proposal(profile_dict, grant_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\IBM\grant-finder\backend\services\proposal_generator.py", line 53, in generate_full_proposal
+    exec_sum, prob_stmt = await asyncio.gather(
+                          ^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\IBM\grant-finder\backend\services\proposal_generator.py", line 144, in _generate_problem_statement
+    return await granite_service.generate(prompt, max_new_tokens=350, temperature=0.65)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\IBM\grant-finder\backend\services\granite_service.py", line 96, in generate
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Dell\AppData\Roaming\Python\Python314\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '403 Forbidden' for url 'https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-05 17:35:54,754 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:55,363 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:55,732 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:56,140 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:56,548 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:56,951 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:57,360 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:57,717 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:58,127 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:58,537 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:58,944 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:59,348 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:35:59,753 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:00,175 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:00,579 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:00,989 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:01,355 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:01,759 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:02,116 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:02,472 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:02,834 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:03,426 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:03,814 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:04,170 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:04,632 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:05,002 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:05,409 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:05,831 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:06,248 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:06,652 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:07,867 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:08,229 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:08,640 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:09,059 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:09,416 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:09,875 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:10,229 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:10,638 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:11,043 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:11,451 [INFO] watchfiles.main: 2 changes detected
+2026-11-05 17:36:12,210 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:12,576 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:12,930 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:13,337 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:13,797 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:14,213 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:14,583 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:15,696 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:16,048 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:16,460 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:16,881 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:17,284 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:17,693 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:18,104 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:18,524 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:18,892 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:19,356 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:19,719 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:20,097 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:20,513 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:20,905 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:21,289 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:21,707 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:22,122 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:22,525 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:22,937 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:23,354 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:23,761 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:24,182 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:24,600 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:25,030 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:25,443 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:25,849 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:27,150 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:27,507 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:27,869 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:28,276 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:28,683 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:29,090 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:29,498 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:29,907 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:30,313 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:30,717 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:31,125 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:31,534 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:31,941 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:32,343 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:32,753 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:33,159 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:33,565 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:33,923 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:34,332 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:34,736 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:35,192 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:35,566 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:35,982 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:36:36,388 [INFO] watchfiles.main: 1 change detected
+2026-11-05 17:40:24,854 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 17:40:24,854 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 17:40:24,854 [INFO] main: IBM NLU:           configured
+2026-11-05 17:40:24,855 [INFO] main: IBM COS Cache:     configured
+2026-11-05 18:06:56,077 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:06:58,879 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_52b8c77cf9a220ccfa68ad653d79859d.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:07:01,778 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_52b8c77cf9a220ccfa68ad653d79859d.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:07:01,780 [WARNING] backend.services.cos_cache: COS set error for grants_52b8c77cf9a220ccfa68ad653d79859d: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_52b8c77cf9a220ccfa68ad653d79859d.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:07:01,781 [INFO] backend.services.grant_aggregator: Aggregated 0 grants (curated=0, live=0)
+2026-11-05 18:07:03,772 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:07:03,776 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:07:05,347 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:07:05,355 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:07:07,339 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:07:07,344 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:07:09,120 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:07:09,126 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:07:11,025 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:07:11,028 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:07:12,274 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:07:12,278 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:07:13,909 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:07:13,912 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:07:38,308 [WARNING] backend.services.eligibility_matcher: Granite analysis failed for startup_india_seed_2024: [Errno 11001] getaddrinfo failed
+2026-11-05 18:07:38,311 [WARNING] backend.services.eligibility_matcher: Granite analysis failed for techstars_2025: [Errno 11001] getaddrinfo failed
+2026-11-05 18:07:38,315 [WARNING] backend.services.eligibility_matcher: Granite analysis failed for ycombinator_2024: [Errno 11001] getaddrinfo failed
+2026-11-05 18:08:36,981 [INFO] backend.services.proposal_generator: Generating proposal 34d72bd1 for grant: Startup India Seed Fund Scheme (SISFS)
+2026-11-05 18:08:41,137 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:08:42,096 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:08:44,313 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:08:44,319 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:08:44,329 [ERROR] backend.routes.proposals: Proposal generation error: Client error '403 Forbidden' for url 'https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+Traceback (most recent call last):
+  File "D:\IBM\grant-finder\backend\routes\proposals.py", line 33, in generate_proposal
+    proposal = await proposal_generator.generate_full_proposal(profile_dict, grant_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\IBM\grant-finder\backend\services\proposal_generator.py", line 53, in generate_full_proposal
+    exec_sum, prob_stmt = await asyncio.gather(
+                          ^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\IBM\grant-finder\backend\services\proposal_generator.py", line 124, in _generate_executive_summary
+    return await granite_service.generate(prompt, max_new_tokens=280, temperature=0.7)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\IBM\grant-finder\backend\services\granite_service.py", line 96, in generate
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Dell\AppData\Roaming\Python\Python314\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '403 Forbidden' for url 'https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-05 18:08:51,510 [INFO] backend.services.proposal_generator: Generating proposal 779c5fc2 for grant: Startup India Seed Fund Scheme (SISFS)
+2026-11-05 18:08:54,675 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:08:54,680 [ERROR] backend.routes.proposals: Proposal generation error: Client error '403 Forbidden' for url 'https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+Traceback (most recent call last):
+  File "D:\IBM\grant-finder\backend\routes\proposals.py", line 33, in generate_proposal
+    proposal = await proposal_generator.generate_full_proposal(profile_dict, grant_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\IBM\grant-finder\backend\services\proposal_generator.py", line 53, in generate_full_proposal
+    exec_sum, prob_stmt = await asyncio.gather(
+                          ^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\IBM\grant-finder\backend\services\proposal_generator.py", line 124, in _generate_executive_summary
+    return await granite_service.generate(prompt, max_new_tokens=280, temperature=0.7)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\IBM\grant-finder\backend\services\granite_service.py", line 96, in generate
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Dell\AppData\Roaming\Python\Python314\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '403 Forbidden' for url 'https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-05 18:08:54,910 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:09:57,316 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:09:57,681 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:09:58,040 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:09:58,452 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:09:58,861 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:09:59,329 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:09:59,695 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:00,107 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:00,515 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:00,925 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:01,342 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:01,748 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:02,160 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:02,563 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:02,927 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:03,388 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:03,743 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:04,151 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:04,557 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:04,965 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:05,330 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:05,696 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:06,048 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:06,467 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:06,882 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:07,292 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:07,710 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:08,146 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:08,502 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:08,985 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:09,447 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:09,850 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:10,348 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:10,714 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:11,122 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:11,526 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:11,993 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:12,406 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:14,708 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:15,084 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:15,451 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:15,867 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:16,283 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:16,688 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:17,115 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:17,518 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:17,980 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:18,396 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:18,809 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:19,227 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:19,594 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:20,059 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:20,427 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:20,831 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:21,258 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:21,661 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:22,125 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:22,485 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:22,903 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:23,317 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:23,724 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:24,131 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:24,535 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:24,952 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:25,366 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:25,771 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:26,181 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:26,584 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:26,996 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:27,401 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:27,811 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:28,228 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:28,633 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:29,095 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:29,462 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:29,926 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:30,292 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:30,708 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:31,125 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:31,536 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:31,956 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:32,375 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:32,741 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:33,202 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:33,569 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:34,035 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:34,451 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:34,856 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:35,231 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:35,636 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:36,049 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:10:36,464 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:00,247 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:00,929 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:01,286 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:01,695 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:02,100 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:02,524 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:02,884 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:03,292 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:03,707 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:04,126 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:04,631 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:04,992 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:05,456 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:05,819 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:06,228 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:06,650 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:07,137 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:07,503 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:07,938 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:08,357 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:08,786 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:09,201 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:09,645 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:10,011 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:10,421 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:10,827 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:11,244 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:11,713 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:12,067 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:12,495 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:12,911 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:13,326 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:13,745 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:14,156 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:14,576 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:15,007 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:15,387 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:15,802 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:16,219 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:16,632 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:17,052 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:17,406 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:17,832 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:18,241 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:18,664 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:19,075 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:19,480 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:19,887 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:20,294 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:20,707 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:21,126 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:21,492 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:21,898 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:22,316 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:22,731 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:23,140 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:23,546 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:23,957 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:24,377 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:24,803 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:25,218 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:25,624 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:26,037 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:26,390 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:26,800 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:27,263 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:27,631 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:28,095 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:28,463 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:28,871 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:29,328 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:29,744 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:30,100 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:30,558 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:30,925 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:31,331 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:31,792 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:32,158 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:32,574 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:32,991 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:33,404 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:33,810 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:34,270 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:34,624 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:35,088 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:35,452 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:35,866 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:36,283 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:36,689 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:37,097 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:37,553 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:37,918 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:38,381 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:38,748 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:39,215 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:39,626 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:39,983 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:40,444 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:40,848 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:41,258 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:41,662 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:42,074 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:42,441 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:42,907 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:43,271 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:43,736 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:44,098 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:44,502 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:44,906 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:45,366 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:45,784 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:46,190 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:46,564 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:46,973 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:47,395 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:47,808 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:48,229 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:48,636 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:49,061 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:49,427 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:49,839 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:50,248 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:50,710 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:51,128 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:51,486 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:51,892 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:52,357 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:52,721 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:53,137 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:53,556 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:53,966 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:54,370 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:54,788 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:55,197 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:55,616 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:55,972 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:56,385 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:56,804 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:57,212 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:57,631 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:58,046 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:58,462 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:58,877 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:59,294 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:12:59,700 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:00,077 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:00,495 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:00,906 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:01,322 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:01,729 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:02,086 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:02,505 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:02,920 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:03,337 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:03,742 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:04,116 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:04,524 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:04,986 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:05,350 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:05,756 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:06,179 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:06,581 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:06,986 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:07,394 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:07,801 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:08,210 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:08,623 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:09,045 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:09,454 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:09,874 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:10,228 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:10,641 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:11,054 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:11,460 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:11,919 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:12,336 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:12,742 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:13,151 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:13,568 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:13,973 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:14,383 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:14,746 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:15,161 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:15,577 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:15,983 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:16,390 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:16,793 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:17,199 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:17,607 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:18,011 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:18,423 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:18,841 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:19,248 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:19,658 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:20,061 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:20,472 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:20,888 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:21,308 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:21,718 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:22,126 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:22,537 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:22,953 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:23,367 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:23,772 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:24,234 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:24,646 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:25,051 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:25,461 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:25,831 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:26,237 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:26,658 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:27,067 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:27,527 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:27,944 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:28,304 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:28,708 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:29,123 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:29,528 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:29,991 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:30,352 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:30,760 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:31,169 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:31,577 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:32,004 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:32,415 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:32,833 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:33,239 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:33,647 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:34,053 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:34,514 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:34,878 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:35,296 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:35,701 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:36,110 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:36,526 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:36,931 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:37,338 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:37,792 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:38,198 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:38,564 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:38,984 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:39,389 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:39,796 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:40,216 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:40,620 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:41,036 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:41,440 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:41,900 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:42,305 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:42,715 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:43,083 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:43,546 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:43,913 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:44,318 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:44,774 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:45,194 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:45,611 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:45,965 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:46,375 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:46,783 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:47,206 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:47,612 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:48,075 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:48,442 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:48,855 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:49,270 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:49,677 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:50,086 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:50,505 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:50,916 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:51,320 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:51,735 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:52,152 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:52,563 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:52,979 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:53,385 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:53,795 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:54,203 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:54,609 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:55,011 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:55,423 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:55,828 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:56,234 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:56,642 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:57,056 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:57,472 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:57,830 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:58,239 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:58,643 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:59,107 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:59,472 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:13:59,938 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:00,353 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:00,704 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:01,169 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:01,585 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:01,952 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:02,365 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:02,769 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:03,172 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:03,578 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:03,985 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:04,444 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:04,847 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:05,253 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:05,660 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:06,070 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:06,477 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:06,884 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:07,290 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:07,696 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:08,119 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:08,526 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:08,937 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:09,341 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:09,749 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:10,152 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:10,560 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:10,982 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:11,387 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:11,795 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:12,201 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:12,611 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:13,017 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:13,427 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:13,837 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:14,257 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:14,677 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:15,085 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:15,493 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:15,901 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:16,274 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:16,737 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:17,141 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:17,545 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:17,954 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:18,363 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:18,770 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:19,177 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:19,537 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:20,002 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:20,369 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:20,779 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:21,184 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:21,591 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:21,998 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:22,410 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:22,820 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:23,231 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:23,637 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:24,049 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:24,457 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:24,866 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:25,272 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:25,682 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:26,051 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:26,462 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:26,869 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:27,277 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:27,682 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:28,091 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:28,501 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:28,909 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:29,318 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:29,726 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:30,134 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:30,541 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:30,947 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:31,352 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:31,757 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:32,161 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:32,573 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:32,982 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:33,392 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:33,800 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:34,208 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:34,613 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:35,021 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:35,429 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:35,835 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:36,242 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:36,648 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:37,057 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:37,463 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:37,868 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:38,276 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:38,684 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:39,097 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:39,503 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:39,962 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:40,330 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:40,744 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:41,148 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:41,559 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:41,977 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:42,387 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:42,807 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:43,213 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:43,622 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:44,028 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:44,436 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:44,844 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:45,255 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:45,673 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:46,079 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:46,486 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:46,893 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:47,302 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:47,713 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:48,121 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:48,531 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:48,938 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:49,348 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:49,755 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:50,173 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:50,582 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:50,989 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:51,396 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:51,802 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:52,209 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:52,616 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:53,023 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:53,431 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:53,839 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:54,246 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:54,656 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:55,060 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:55,468 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:55,893 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:56,258 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:56,719 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:57,084 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:57,494 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:57,901 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:58,310 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:58,729 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:59,137 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:59,546 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:14:59,952 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:00,357 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:00,765 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:01,174 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:01,580 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:01,991 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:02,408 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:02,814 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:03,224 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:03,630 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:04,036 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:04,445 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:04,854 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:05,260 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:05,668 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:06,076 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:06,482 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:06,890 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:07,297 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:07,706 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:08,078 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:08,487 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:08,895 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:09,317 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:09,729 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:10,147 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:10,564 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:10,974 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:11,394 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:11,762 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:12,174 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:12,581 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:13,006 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:13,412 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:13,822 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:14,228 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:14,651 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:15,072 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:15,476 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:15,887 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:16,300 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:16,707 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:17,115 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:17,520 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:17,928 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:18,332 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:18,745 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:19,149 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:19,567 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:19,977 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:20,384 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:20,793 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:21,196 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:21,606 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:22,011 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:22,419 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:22,853 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:23,216 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:23,622 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:24,037 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:24,453 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:24,860 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:25,285 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:25,653 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:26,116 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:26,534 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:26,946 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:27,353 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:27,771 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:28,179 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:28,593 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:28,997 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:29,406 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:29,810 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:30,225 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:30,644 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:31,064 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:31,473 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:31,896 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:32,262 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:32,672 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:33,084 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:33,490 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:33,899 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:34,402 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:34,769 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:35,181 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:35,589 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:35,996 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:36,403 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:36,814 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:37,220 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:37,629 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:38,036 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:38,497 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:38,862 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:39,327 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:39,743 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:40,148 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:40,559 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:40,975 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:41,338 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:41,743 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:42,156 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:42,574 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:42,981 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:43,386 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:43,797 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:44,203 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:44,609 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:45,032 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:45,439 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:45,848 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:46,253 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:46,662 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:47,069 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:47,478 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:47,886 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:48,297 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:48,651 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:49,058 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:49,463 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:49,873 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:50,292 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:50,698 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:51,107 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:51,518 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:51,937 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:52,345 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:52,752 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:53,164 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:53,569 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:53,976 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:54,388 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:54,798 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:55,205 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:55,615 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:56,019 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:56,427 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:56,847 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:57,260 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:57,667 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:58,078 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:58,483 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:58,894 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:59,315 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:15:59,732 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:00,110 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:00,517 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:00,970 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:01,331 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:01,743 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:02,150 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:02,556 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:02,965 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:04,011 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:04,367 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:04,778 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:05,146 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:05,553 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:05,962 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:06,413 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:06,817 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:16:07,224 [INFO] watchfiles.main: 1 change detected
+2026-11-05 18:24:46,918 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 18:24:46,918 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 18:24:46,918 [INFO] main: IBM NLU:           configured
+2026-11-05 18:24:46,918 [INFO] main: IBM COS Cache:     configured
+2026-11-05 18:25:23,472 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:25:27,394 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_178fbeb6a53737d182a4cae79d59fb58.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:25:29,853 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:25:30,445 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:25:30,448 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidRequest</Code><Message>The Key CRN provided is invalid</Message><Resource>/grant-finder-cache/</Resource><RequestId>efd8550f-
+2026-11-05 18:25:33,331 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_178fbeb6a53737d182a4cae79d59fb58.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:25:33,332 [WARNING] backend.services.cos_cache: COS set error for grants_178fbeb6a53737d182a4cae79d59fb58: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_178fbeb6a53737d182a4cae79d59fb58.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:25:33,333 [INFO] backend.services.grant_aggregator: Aggregated 5 grants (curated=5, live=0)
+2026-11-05 18:25:34,521 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:25:34,524 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:25:35,891 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:25:35,894 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:25:37,958 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:25:37,966 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:25:39,144 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:25:39,149 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:25:41,956 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:25:41,959 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:27:57,077 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_f152f9eb279898ca72df9d871b7447e7.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:27:59,358 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:28:00,016 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:28:00,019 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidRequest</Code><Message>The Key CRN provided is invalid</Message><Resource>/grant-finder-cache/</Resource><RequestId>6543e075-
+2026-11-05 18:28:02,232 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_f152f9eb279898ca72df9d871b7447e7.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:28:02,234 [WARNING] backend.services.cos_cache: COS set error for grants_f152f9eb279898ca72df9d871b7447e7: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_f152f9eb279898ca72df9d871b7447e7.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:28:02,234 [INFO] backend.services.grant_aggregator: Aggregated 5 grants (curated=5, live=0)
+2026-11-05 18:28:04,414 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:04,416 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:05,772 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:05,777 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:07,052 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:07,055 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:08,587 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:08,590 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:09,769 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:09,770 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:10,905 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:10,906 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:42,046 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_c4ccf734f74c06469277cd310b1c0e19.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:28:44,261 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:28:44,841 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:28:44,843 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidRequest</Code><Message>The Key CRN provided is invalid</Message><Resource>/grant-finder-cache/</Resource><RequestId>710eba4b-
+2026-11-05 18:28:47,017 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_c4ccf734f74c06469277cd310b1c0e19.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:28:47,021 [WARNING] backend.services.cos_cache: COS set error for grants_c4ccf734f74c06469277cd310b1c0e19: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_c4ccf734f74c06469277cd310b1c0e19.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:28:47,022 [INFO] backend.services.grant_aggregator: Aggregated 5 grants (curated=5, live=0)
+2026-11-05 18:28:49,405 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:49,411 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:51,204 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:51,205 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:53,029 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:53,031 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:54,894 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:54,897 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:28:56,715 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:28:56,719 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:29:42,864 [INFO] backend.services.proposal_generator: Generating proposal 3fffdb19 for grant: Techstars Accelerator Program
+2026-11-05 18:29:44,348 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:29:44,956 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:29:45,969 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:29:45,971 [WARNING] backend.services.granite_service: Granite /text/generation returned 403 — trying /text/chat endpoint
+2026-11-05 18:29:46,146 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:29:46,149 [WARNING] backend.services.granite_service: Granite /text/generation returned 403 — trying /text/chat endpoint
+2026-11-05 18:29:46,752 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:29:46,755 [WARNING] backend.services.granite_service: Granite /text/generation 403 — trying /text/chat endpoint
+2026-11-05 18:29:46,891 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:29:46,895 [WARNING] backend.services.granite_service: Granite /text/generation 403 — trying /text/chat endpoint
+2026-11-05 18:29:47,374 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:29:48,020 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:29:49,859 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:29:50,439 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:29:50,441 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidRequest</Code><Message>The Key CRN provided is invalid</Message><Resource>/grant-finder-cache/</Resource><RequestId>e92fceb4-
+2026-11-05 18:29:52,684 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_3fffdb19.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:29:52,687 [WARNING] backend.services.cos_cache: COS set error for proposal_3fffdb19: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_3fffdb19.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:52:51,806 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 18:52:51,807 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 18:52:51,807 [INFO] main: IBM NLU:           configured
+2026-11-05 18:52:51,807 [INFO] main: IBM COS Cache:     configured
+2026-11-05 18:53:58,911 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:54:01,737 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_5d2b1704c3b3ad6d69d5f6f4df4be1ea.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:54:04,006 [INFO] httpx: HTTP Request: POST https://apply07.grants.gov/grantsws/rest/opportunities/search "HTTP/1.1 200 "
+2026-11-05 18:54:06,034 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:54:06,593 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:54:06,599 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidRequest</Code><Message>The Key CRN provided is invalid</Message><Resource>/grant-finder-cache/</Resource><RequestId>02fbfe76-
+2026-11-05 18:54:08,887 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_5d2b1704c3b3ad6d69d5f6f4df4be1ea.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:54:08,893 [WARNING] backend.services.cos_cache: COS set error for grants_5d2b1704c3b3ad6d69d5f6f4df4be1ea: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_5d2b1704c3b3ad6d69d5f6f4df4be1ea.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:54:08,895 [INFO] backend.services.grant_aggregator: Aggregated 7 grants (curated=7, live=0)
+2026-11-05 18:54:10,290 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:54:10,296 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:54:11,711 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:54:11,718 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:54:13,359 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:54:13,369 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:54:14,568 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:54:14,574 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:54:16,486 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:54:16,494 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:54:18,060 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:54:18,067 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:54:19,796 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:54:19,805 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:54:21,134 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:54:21,141 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:54:21,470 [INFO] backend.services.proposal_generator: Generating proposal ff8291d0 for grant: DOE SBIR/STTR FY2025 Phase I
+2026-11-05 18:54:23,025 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:54:23,495 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:54:24,819 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:54:24,829 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:54:24,834 [WARNING] backend.services.granite_service: Granite /text/generation returned 403 — trying /text/chat endpoint
+2026-11-05 18:54:24,838 [WARNING] backend.services.granite_service: Granite /text/generation returned 403 — trying /text/chat endpoint
+2026-11-05 18:54:25,535 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:54:25,545 [WARNING] backend.services.granite_service: Granite /text/generation 403 — trying /text/chat endpoint
+2026-11-05 18:54:26,159 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:54:26,166 [WARNING] backend.services.granite_service: Granite /text/generation 403 — trying /text/chat endpoint
+2026-11-05 18:54:26,225 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:54:26,783 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:54:28,811 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:54:29,409 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:54:29,414 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidRequest</Code><Message>The Key CRN provided is invalid</Message><Resource>/grant-finder-cache/</Resource><RequestId>7e90dbb8-
+2026-11-05 18:54:31,942 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_ff8291d0.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:54:31,950 [WARNING] backend.services.cos_cache: COS set error for proposal_ff8291d0: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_ff8291d0.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:55:22,632 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_17e776dd5ceef4d2ad4a6bb2ad24c6b6.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:55:25,920 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:55:26,535 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:55:26,541 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidRequest</Code><Message>The Key CRN provided is invalid</Message><Resource>/grant-finder-cache/</Resource><RequestId>3d8a2934-
+2026-11-05 18:55:29,965 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_17e776dd5ceef4d2ad4a6bb2ad24c6b6.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:55:29,971 [WARNING] backend.services.cos_cache: COS set error for grants_17e776dd5ceef4d2ad4a6bb2ad24c6b6: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_17e776dd5ceef4d2ad4a6bb2ad24c6b6.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:55:29,972 [INFO] backend.services.grant_aggregator: Aggregated 5 grants (curated=5, live=0)
+2026-11-05 18:55:31,685 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:55:31,695 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:55:33,034 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:55:33,042 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:55:35,064 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:55:35,073 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:55:36,500 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:55:36,507 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:55:38,137 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:55:38,143 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:55:40,082 [INFO] httpx: HTTP Request: POST https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id/v1/analyze?version=2022-04-07 "HTTP/1.1 401 Unauthorized"
+2026-11-05 18:55:40,088 [ERROR] backend.services.nlu_service: NLU API error: 401
+2026-11-05 18:57:41,101 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 18:57:41,101 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 18:57:41,101 [INFO] main: IBM NLU:           configured
+2026-11-05 18:57:41,101 [INFO] main: IBM COS Cache:     configured
+2026-11-05 18:58:00,676 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:58:02,764 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_b1faad9392fa300b54e1e35b35bf49f3.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:58:04,932 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:58:05,245 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:58:05,248 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>2e2263f1-4771-4348-a9e8-aa0f9a605a79</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 18:58:07,395 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_b1faad9392fa300b54e1e35b35bf49f3.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:58:07,399 [WARNING] backend.services.cos_cache: COS set error for grants_b1faad9392fa300b54e1e35b35bf49f3: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_b1faad9392fa300b54e1e35b35bf49f3.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:58:07,399 [INFO] backend.services.grant_aggregator: Aggregated 5 grants (curated=5, live=0)
+2026-11-05 18:58:07,460 [INFO] backend.services.proposal_generator: Generating proposal 118f6e7f for grant: AWS Activate for Startups
+2026-11-05 18:58:08,825 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:58:09,418 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 18:58:10,637 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:58:10,646 [WARNING] backend.services.granite_service: Granite /text/generation returned 403 — trying /text/chat endpoint
+2026-11-05 18:58:10,653 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:58:10,660 [WARNING] backend.services.granite_service: Granite /text/generation returned 403 — trying /text/chat endpoint
+2026-11-05 18:58:11,571 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:58:11,578 [WARNING] backend.services.granite_service: Granite /text/generation 403 — trying /text/chat endpoint
+2026-11-05 18:58:12,075 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:58:12,077 [WARNING] backend.services.granite_service: Granite /text/generation 403 — trying /text/chat endpoint
+2026-11-05 18:58:12,385 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:58:12,948 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 18:58:14,676 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:58:14,993 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:58:14,996 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>927c23d9-4b0c-4014-94cb-9fd1bd9b6c3f</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 18:58:17,142 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_118f6e7f.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:58:17,150 [WARNING] backend.services.cos_cache: COS set error for proposal_118f6e7f: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_118f6e7f.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:59:31,128 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_7c07247e67497e5533b1b70bbd4ce1b5.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:59:34,719 [INFO] httpx: HTTP Request: POST https://apply07.grants.gov/grantsws/rest/opportunities/search "HTTP/1.1 200 "
+2026-11-05 18:59:37,930 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:59:38,228 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:59:38,232 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>3b08a5b1-4d21-43ec-8a6c-21c6c9ddf5b7</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 18:59:41,400 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_7c07247e67497e5533b1b70bbd4ce1b5.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:59:41,401 [WARNING] backend.services.cos_cache: COS set error for grants_7c07247e67497e5533b1b70bbd4ce1b5: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_7c07247e67497e5533b1b70bbd4ce1b5.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:59:41,402 [INFO] backend.services.grant_aggregator: Aggregated 12 grants (curated=7, live=5)
+2026-11-05 18:59:43,834 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d37b0aa5fc2381a2efc6e5d150d2f2a1.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:59:46,950 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:59:47,240 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:59:47,242 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>5246d5ac-210a-48b1-a89e-92ae1176b117</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 18:59:50,191 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d37b0aa5fc2381a2efc6e5d150d2f2a1.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:59:50,194 [WARNING] backend.services.cos_cache: COS set error for grants_d37b0aa5fc2381a2efc6e5d150d2f2a1: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d37b0aa5fc2381a2efc6e5d150d2f2a1.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 18:59:50,195 [INFO] backend.services.grant_aggregator: Aggregated 5 grants (curated=5, live=0)
+2026-11-05 18:59:50,228 [INFO] backend.services.proposal_generator: Generating proposal 765da73a for grant: Startup India Seed Fund Scheme (SISFS)
+2026-11-05 18:59:53,281 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 18:59:53,600 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 18:59:53,606 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>7c74d5a6-5d44-488d-862b-7307963669b4</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 18:59:56,480 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_765da73a.json "HTTP/1.1 404 Not Found"
+2026-11-05 18:59:56,484 [WARNING] backend.services.cos_cache: COS set error for proposal_765da73a: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_765da73a.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 19:00:17,984 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 19:00:17,984 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 19:00:17,985 [INFO] main: IBM NLU:           configured
+2026-11-05 19:00:17,985 [INFO] main: IBM COS Cache:     configured
+2026-11-05 19:07:55,512 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 19:07:58,455 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d37b0aa5fc2381a2efc6e5d150d2f2a1.json "HTTP/1.1 404 Not Found"
+2026-11-05 19:08:01,618 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 19:08:02,152 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 19:08:02,159 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>21697216-1052-4c0f-9c54-278a927a017b</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 19:08:05,042 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d37b0aa5fc2381a2efc6e5d150d2f2a1.json "HTTP/1.1 404 Not Found"
+2026-11-05 19:08:05,046 [WARNING] backend.services.cos_cache: COS set error for grants_d37b0aa5fc2381a2efc6e5d150d2f2a1: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d37b0aa5fc2381a2efc6e5d150d2f2a1.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 19:08:05,047 [INFO] backend.services.grant_aggregator: Aggregated 5 grants (curated=5, live=0)
+2026-11-05 20:21:41,565 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
+2026-11-05 20:21:41,565 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
+2026-11-05 20:21:41,566 [INFO] main: IBM NLU:           configured
+2026-11-05 20:21:41,566 [INFO] main: IBM COS Cache:     configured
+2026-11-05 20:22:15,589 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 20:22:17,668 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_645db131aaa02d139b0b0adc3294b4d4.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:19,373 [INFO] httpx: HTTP Request: POST https://apply07.grants.gov/grantsws/rest/opportunities/search "HTTP/1.1 200 "
+2026-11-05 20:22:21,483 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:21,774 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 20:22:21,782 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>f442bb0b-250b-4a4e-8b4b-e41081e9fc5d</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 20:22:23,938 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_645db131aaa02d139b0b0adc3294b4d4.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:23,944 [WARNING] backend.services.cos_cache: COS set error for grants_645db131aaa02d139b0b0adc3294b4d4: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_645db131aaa02d139b0b0adc3294b4d4.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 20:22:23,946 [INFO] backend.services.grant_aggregator: Aggregated 11 grants (curated=7, live=5)
+2026-11-05 20:22:26,179 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d37b0aa5fc2381a2efc6e5d150d2f2a1.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:28,419 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:28,739 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 20:22:28,745 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>268973f7-ba57-4265-a435-b16707ac3063</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 20:22:30,981 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d37b0aa5fc2381a2efc6e5d150d2f2a1.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:30,983 [WARNING] backend.services.cos_cache: COS set error for grants_d37b0aa5fc2381a2efc6e5d150d2f2a1: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d37b0aa5fc2381a2efc6e5d150d2f2a1.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 20:22:30,983 [INFO] backend.services.grant_aggregator: Aggregated 5 grants (curated=5, live=0)
+2026-11-05 20:22:33,120 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d9374eccac97083cbaf672f7281e7d12.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:35,349 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:35,684 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 20:22:35,687 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>1b13c3e2-ef6d-4b29-a23e-307f0ca64e77</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 20:22:37,835 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d9374eccac97083cbaf672f7281e7d12.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:37,841 [WARNING] backend.services.cos_cache: COS set error for grants_d9374eccac97083cbaf672f7281e7d12: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_d9374eccac97083cbaf672f7281e7d12.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 20:22:37,842 [INFO] backend.services.grant_aggregator: Aggregated 6 grants (curated=6, live=0)
+2026-11-05 20:22:37,859 [INFO] backend.services.proposal_generator: Generating proposal 2088f066 for grant: Startup India Seed Fund Scheme (SISFS)
+2026-11-05 20:22:39,320 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 20:22:40,082 [INFO] httpx: HTTP Request: POST https://iam.cloud.ibm.com/identity/token "HTTP/1.1 200 OK"
+2026-11-05 20:22:41,140 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 20:22:41,148 [WARNING] backend.services.granite_service: Granite /text/generation returned 403 — trying /text/chat endpoint
+2026-11-05 20:22:41,630 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 20:22:41,636 [WARNING] backend.services.granite_service: Granite /text/generation 403 — trying /text/chat endpoint
+2026-11-05 20:22:41,947 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 20:22:41,951 [WARNING] backend.services.granite_service: Granite /text/generation returned 403 — trying /text/chat endpoint
+2026-11-05 20:22:42,262 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 20:22:42,268 [ERROR] backend.services.granite_service: Both Granite endpoints returned 403. ACTION REQUIRED: Associate Watson Machine Learning with your watsonx project.
+  1. Go to https://dataplatform.cloud.ibm.com
+  2. Open project -> Manage -> Services & integrations
+  3. Click 'Associate service' -> add Watson Machine Learning (Lite plan)
+  4. Restart this server
+2026-11-05 20:22:42,270 [WARNING] backend.services.proposal_generator: Granite proposal generation failed (IBM Granite 403: Watson Machine Learning service not associated with project. Project ID: 6fd9757d-acef-4ff2-a666-fcd11633eded. Fix: dataplatform.cloud.ibm.com -> project -> Manage -> Services & integrations -> Associate WML); using template fallback
+2026-11-05 20:22:42,668 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 20:22:42,671 [WARNING] backend.services.granite_service: Granite /text/generation 403 — trying /text/chat endpoint
+2026-11-05 20:22:43,143 [INFO] httpx: HTTP Request: POST https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29 "HTTP/1.1 403 Forbidden"
+2026-11-05 20:22:43,150 [ERROR] backend.services.granite_service: Both Granite endpoints returned 403. ACTION REQUIRED: Associate Watson Machine Learning with your watsonx project.
+  1. Go to https://dataplatform.cloud.ibm.com
+  2. Open project -> Manage -> Services & integrations
+  3. Click 'Associate service' -> add Watson Machine Learning (Lite plan)
+  4. Restart this server
+2026-11-05 20:22:44,496 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:44,834 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 20:22:44,840 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>19d68d90-ff32-49b6-89f9-0f0101e90964</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 20:22:46,885 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_2088f066.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:22:46,889 [WARNING] backend.services.cos_cache: COS set error for proposal_2088f066: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_2088f066.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 20:22:46,890 [WARNING] backend.routes.proposals: Cover letter generation failed: IBM Granite unavailable (403). Associate Watson Machine Learning with your watsonx project: dataplatform.cloud.ibm.com -> project -> Manage -> Services & integrations; using template
+2026-11-05 20:33:57,394 [INFO] httpx: HTTP Request: GET https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_fb95553db4823f4bfbfe9b5c77f0e2ac.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:33:59,813 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 20:34:00,130 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 20:34:00,133 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>57f67dce-969a-45db-a110-588ec0be70ab</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 20:34:02,449 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_fb95553db4823f4bfbfe9b5c77f0e2ac.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:34:02,461 [WARNING] backend.services.cos_cache: COS set error for grants_fb95553db4823f4bfbfe9b5c77f0e2ac: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/grants_fb95553db4823f4bfbfe9b5c77f0e2ac.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 20:34:02,462 [INFO] backend.services.grant_aggregator: Aggregated 4 grants (curated=4, live=0)
+2026-11-05 20:34:02,464 [WARNING] backend.services.eligibility_matcher: Granite analysis failed for startup_india_seed_2024: IBM Granite unavailable (403). Associate Watson Machine Learning with your watsonx project: dataplatform.cloud.ibm.com -> project -> Manage -> Services & integrations
+2026-11-05 20:34:02,465 [WARNING] backend.services.eligibility_matcher: Granite analysis failed for ycombinator_2024: IBM Granite unavailable (403). Associate Watson Machine Learning with your watsonx project: dataplatform.cloud.ibm.com -> project -> Manage -> Services & integrations
+2026-11-05 20:34:02,465 [WARNING] backend.services.eligibility_matcher: Granite analysis failed for aws_activate_2024: IBM Granite unavailable (403). Associate Watson Machine Learning with your watsonx project: dataplatform.cloud.ibm.com -> project -> Manage -> Services & integrations
+2026-11-05 20:34:41,760 [INFO] backend.services.proposal_generator: Generating proposal 921c53ed for grant: Startup India Seed Fund Scheme (SISFS)
+2026-11-05 20:34:41,763 [WARNING] backend.services.proposal_generator: Granite proposal generation failed (IBM Granite unavailable (403). Associate Watson Machine Learning with your watsonx project: dataplatform.cloud.ibm.com -> project -> Manage -> Services & integrations); using template fallback
+2026-11-05 20:34:44,069 [INFO] httpx: HTTP Request: HEAD https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 404 Not Found"
+2026-11-05 20:34:44,387 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache "HTTP/1.1 400 Bad Request"
+2026-11-05 20:34:44,394 [WARNING] backend.services.cos_cache: COS bucket create returned 400: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Error><Code>InvalidArgument</Code><Message>Invalid Argument</Message><Resource>/grant-finder-cache/</Resource><RequestId>9b985487-916a-4984-b501-63b9cbaa0eb1</RequestId><httpStatusCode>400</httpStatusCode></Error>
+2026-11-05 20:34:46,973 [INFO] httpx: HTTP Request: PUT https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_921c53ed.json "HTTP/1.1 404 Not Found"
+2026-11-05 20:34:46,981 [WARNING] backend.services.cos_cache: COS set error for proposal_921c53ed: Client error '404 Not Found' for url 'https://s3.us-south.cloud-object-storage.appdomain.cloud/grant-finder-cache/proposal_921c53ed.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-11-05 20:34:46,982 [WARNING] backend.routes.proposals: Cover letter generation failed: IBM Granite unavailable (403). Associate Watson Machine Learning with your watsonx project: dataplatform.cloud.ibm.com -> project -> Manage -> Services & integrations; using template

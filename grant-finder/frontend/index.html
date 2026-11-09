@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GrantAI — IBM Granite Powered Grant Finder for Startups</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+<!-- ═══════════════════════════ NAVBAR ═══════════════════════════════════ -->
+<nav class="navbar">
+  <div class="nav-inner">
+    <div class="nav-brand">
+      <div class="brand-icon">
+        <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
+          <rect width="32" height="32" rx="8" fill="#0f62fe"/>
+          <path d="M8 10h6v12H8zm10 0h6v12h-6z" fill="#fff" opacity="0.9"/>
+          <path d="M11 7h10v3H11z" fill="#fff" opacity="0.6"/>
+        </svg>
+      </div>
+      <span class="brand-name">Grant<span class="brand-accent">AI</span></span>
+      <span class="brand-tag">IBM Granite</span>
+    </div>
+    <div class="nav-links">
+      <a href="#finder" class="nav-link" onclick="showSection('finder')">Finder</a>
+      <a href="#proposals" class="nav-link" onclick="showSection('proposals')">Proposals</a>
+      <a href="#browse" class="nav-link" onclick="showSection('browse')">Browse All</a>
+    </div>
+    <div class="nav-status" id="healthBadge">
+      <span class="status-dot status-checking"></span>
+      <span>Checking IBM services…</span>
+    </div>
+  </div>
+</nav>
+
+<!-- ═══════════════════════════ HERO ══════════════════════════════════════ -->
+<section class="hero" id="home">
+  <div class="hero-bg-grid"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <svg width="16" height="16" viewBox="0 0 32 32" fill="none"><rect width="32" height="32" rx="4" fill="#0f62fe"/><path d="M8 10h6v12H8zm10 0h6v12h-6z" fill="#fff"/></svg>
+      Powered by IBM Granite · watsonx.ai · Watson NLU
+    </div>
+    <h1 class="hero-title">
+      Find the Right <span class="gradient-text">Grant Funding</span><br/>
+      for Your Startup — Instantly
+    </h1>
+    <p class="hero-sub">
+      AI-powered grant discovery, eligibility matching, and full proposal generation.
+      Built on IBM Cloud Lite services — 100% free to use at scale.
+    </p>
+    <div class="hero-actions">
+      <button class="btn btn-primary btn-lg" onclick="showSection('finder'); document.getElementById('startupName').focus()">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        Find My Grants
+      </button>
+      <button class="btn btn-ghost btn-lg" onclick="showSection('browse')">
+        Browse All 12 Grants →
+      </button>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-num">12+</span><span class="stat-label">Grant Sources</span></div>
+      <div class="stat"><span class="stat-num">$0</span><span class="stat-label">Cost to Use</span></div>
+      <div class="stat"><span class="stat-num">IBM</span><span class="stat-label">Granite AI</span></div>
+      <div class="stat"><span class="stat-num">30s</span><span class="stat-label">Avg Match Time</span></div>
+    </div>
+  </div>
+  <div class="hero-visual">
+    <div class="floating-card fc1">
+      <div class="fc-icon">💰</div>
+      <div class="fc-text"><strong>NSF SBIR Phase I</strong><br/>Up to $275,000</div>
+      <div class="fc-score">94%</div>
+    </div>
+    <div class="floating-card fc2">
+      <div class="fc-icon">🇪🇺</div>
+      <div class="fc-text"><strong>EIC Accelerator</strong><br/>Up to €2.5M</div>
+      <div class="fc-score">87%</div>
+    </div>
+    <div class="floating-card fc3">
+      <div class="fc-icon">🚀</div>
+      <div class="fc-text"><strong>Y Combinator</strong><br/>$500K + Network</div>
+      <div class="fc-score">91%</div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════ FINDER SECTION ══════════════════════════ -->
+<section class="section" id="finder">
+  <div class="container">
+    <div class="section-header">
+      <h2>🔍 Find Your Grants</h2>
+      <p>Tell us about your startup. IBM Granite + Watson NLU will match you to the best opportunities.</p>
+    </div>
+
+    <div class="finder-layout">
+      <!-- Profile Form -->
+      <div class="card form-card">
+        <div class="card-header">
+          <div class="card-icon">🏢</div>
+          <h3>Startup Profile</h3>
+        </div>
+        <form id="startupForm" onsubmit="searchGrants(event)">
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="startupName">Startup Name *</label>
+              <input type="text" id="startupName" placeholder="e.g., ClimateAI Labs" required />
+            </div>
+            <div class="form-group">
+              <label for="industry">Industry / Sector *</label>
+              <input type="text" id="industry" placeholder="e.g., Clean Energy, AI, HealthTech" required />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="description">What does your startup do? *</label>
+            <textarea id="description" rows="3" placeholder="Describe your product, technology, and mission in 2-3 sentences…" required></textarea>
+          </div>
+
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="stage">Funding Stage *</label>
+              <select id="stage" required>
+                <option value="">Select stage…</option>
+                <option value="idea">💡 Idea / Pre-Product</option>
+                <option value="pre-seed">🌱 Pre-Seed</option>
+                <option value="seed">🌿 Seed</option>
+                <option value="series-a">📈 Series A</option>
+                <option value="series-b">🚀 Series B</option>
+                <option value="growth">🌍 Growth</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="location">Location *</label>
+              <input type="text" id="location" placeholder="e.g., USA, India, EU" required />
+            </div>
+          </div>
+
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="teamSize">Team Size</label>
+              <select id="teamSize">
+                <option value="1-5">1-5 people</option>
+                <option value="6-15">6-15 people</option>
+                <option value="16-50">16-50 people</option>
+                <option value="50+">50+ people</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="revenue">Current Revenue</label>
+              <select id="revenue">
+                <option value="Pre-revenue">Pre-revenue</option>
+                <option value="< $50K">Under $50K/year</option>
+                <option value="$50K-$500K">$50K–$500K/year</option>
+                <option value="> $500K">Over $500K/year</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="problem">Core Problem Being Solved</label>
+            <input type="text" id="problem" placeholder="e.g., Carbon emissions from industrial heating are untracked and unmanaged" />
+          </div>
+
+          <div class="form-group">
+            <label for="keywords">Keywords / Technologies</label>
+            <input type="text" id="keywords" placeholder="e.g., machine learning, IoT, CRISPR, blockchain (comma-separated)" />
+          </div>
+
+          <div class="form-group toggle-row">
+            <label class="toggle-label">
+              <input type="checkbox" id="useGranite" checked />
+              <span class="toggle-switch"></span>
+              Enable IBM Granite deep AI analysis <span class="tag-ibm">IBM Granite</span>
+            </label>
+            <small>Disabling speeds up results but skips LLM eligibility reasoning</small>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-block" id="searchBtn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            Find Matching Grants
+          </button>
+        </form>
+      </div>
+
+      <!-- Results Panel -->
+      <div class="results-panel" id="resultsPanel">
+        <div class="results-empty" id="resultsEmpty">
+          <div class="empty-icon">🎯</div>
+          <h4>Your matched grants will appear here</h4>
+          <p>Fill in your startup profile and click "Find Matching Grants" to get AI-powered recommendations.</p>
+        </div>
+        <div id="resultsContent" style="display:none;">
+          <div class="results-header" id="resultsHeader"></div>
+          <div class="grants-list" id="grantsList"></div>
+        </div>
+        <div id="loadingState" style="display:none;" class="loading-state">
+          <div class="ibm-loader">
+            <div class="loader-bar"></div>
+            <div class="loader-bar"></div>
+            <div class="loader-bar"></div>
+          </div>
+          <p id="loadingMsg">Aggregating grant sources…</p>
+          <div class="loading-steps">
+            <div class="lstep" id="ls1">⏳ Scanning 12+ grant databases</div>
+            <div class="lstep" id="ls2">⏳ IBM Watson NLU keyword analysis</div>
+            <div class="lstep" id="ls3">⏳ IBM Granite eligibility scoring</div>
+            <div class="lstep" id="ls4">⏳ Ranking & personalizing results</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════ PROPOSALS SECTION ════════════════════════ -->
+<section class="section section-alt" id="proposals" style="display:none;">
+  <div class="container">
+    <div class="section-header">
+      <h2>✍️ Generate Proposal</h2>
+      <p>IBM Granite writes a complete tailored grant application draft in under 60 seconds.</p>
+    </div>
+
+    <div class="proposal-layout">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-icon">🤖</div>
+          <h3>AI Proposal Generator</h3>
+        </div>
+        <div class="proposal-form">
+          <div class="form-group">
+            <label>Selected Grant</label>
+            <div class="grant-selector" id="proposalGrantDisplay">
+              <div class="no-grant-selected">
+                Run a search first, then click "Generate Proposal" on any result to auto-fill this.
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Startup Profile</label>
+            <div id="proposalProfileSummary" class="profile-pill">No profile yet — run a search first.</div>
+          </div>
+          <label class="toggle-label">
+            <input type="checkbox" id="includeCoverLetter" checked />
+            <span class="toggle-switch"></span>
+            Include cover letter
+          </label>
+          <button class="btn btn-primary btn-block mt-16" id="generateBtn" onclick="generateProposal()" disabled>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+            Generate Full Proposal with IBM Granite
+          </button>
+          <p class="disclaimer-small">⚠️ AI-generated content requires human review before submission</p>
+        </div>
+      </div>
+
+      <div class="card" id="proposalOutput" style="display:none;">
+        <div class="proposal-doc" id="proposalDoc"></div>
+        <div class="proposal-actions">
+          <button class="btn btn-secondary" onclick="downloadProposal()">
+            📄 Download as Text
+          </button>
+          <button class="btn btn-ghost" onclick="copyProposal()">
+            📋 Copy to Clipboard
+          </button>
+        </div>
+      </div>
+
+      <div id="proposalLoading" style="display:none;" class="loading-state card">
+        <div class="ibm-loader">
+          <div class="loader-bar"></div>
+          <div class="loader-bar"></div>
+          <div class="loader-bar"></div>
+        </div>
+        <p>IBM Granite is writing your proposal…</p>
+        <div class="loading-steps">
+          <div class="lstep" id="pl1">✍️ Executive Summary & Problem Statement</div>
+          <div class="lstep" id="pl2">⏳ Solution & Innovation sections</div>
+          <div class="lstep" id="pl3">⏳ Team, Implementation Plan & Outcomes</div>
+          <div class="lstep" id="pl4">⏳ Budget Outline & Cover Letter</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════ BROWSE SECTION ═══════════════════════════ -->
+<section class="section" id="browse" style="display:none;">
+  <div class="container">
+    <div class="section-header">
+      <h2>📋 Browse All Grants</h2>
+      <p>12 curated global opportunities — always up to date, no API key needed.</p>
+    </div>
+    <div class="browse-filters">
+      <input type="text" id="browseSearch" placeholder="🔍  Filter by keyword, funder, or location…" oninput="filterBrowse()" />
+      <select id="browseStage" onchange="filterBrowse()">
+        <option value="">All Stages</option>
+        <option value="idea">Idea</option>
+        <option value="pre-seed">Pre-Seed</option>
+        <option value="seed">Seed</option>
+        <option value="series-a">Series A</option>
+      </select>
+      <select id="browseType" onchange="filterBrowse()">
+        <option value="">All Types</option>
+        <option value="grant">Grant</option>
+        <option value="equity">Equity</option>
+        <option value="loan">Loan</option>
+      </select>
+    </div>
+    <div class="grants-grid" id="browseGrid"></div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════ FOOTER ══════════════════════════════════ -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="brand-name">Grant<span class="brand-accent">AI</span></span>
+        <p>Problem Statement #18 — AI Grant & Funding Finder for Startups</p>
+        <p>Built with IBM Cloud Lite · IBM Granite (watsonx.ai) · Watson NLU · Cloud Object Storage</p>
+      </div>
+      <div class="footer-links">
+        <h4>IBM Services Used</h4>
+        <a href="https://cloud.ibm.com/registration" target="_blank">IBM Cloud Lite (FREE)</a>
+        <a href="https://dataplatform.cloud.ibm.com/" target="_blank">IBM watsonx.ai</a>
+        <a href="https://www.ibm.com/products/natural-language-understanding" target="_blank">Watson NLU</a>
+        <a href="https://www.ibm.com/cloud/object-storage" target="_blank">IBM Cloud Object Storage</a>
+      </div>
+      <div class="footer-links">
+        <h4>API Documentation</h4>
+        <a href="/api/docs" target="_blank">Swagger UI</a>
+        <a href="/api/redoc" target="_blank">ReDoc</a>
+        <a href="/api/health" target="_blank">Health Check</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2025 GrantAI · Powered by IBM Granite · All grant information for reference only · Always verify with funder</p>
+    </div>
+  </div>
+</footer>
+
+<!-- Grant Card Template (hidden) -->
+<template id="grantCardTemplate">
+  <div class="grant-card" data-id="">
+    <div class="grant-card-header">
+      <div class="grant-card-title">
+        <h4></h4>
+        <div class="grant-funder"></div>
+      </div>
+      <div class="grant-score-badge"></div>
+    </div>
+    <div class="grant-meta">
+      <span class="meta-tag amount"></span>
+      <span class="meta-tag deadline"></span>
+      <span class="meta-tag type"></span>
+    </div>
+    <p class="grant-description"></p>
+    <div class="grant-tags"></div>
+    <div class="granite-analysis" style="display:none;">
+      <div class="analysis-header">
+        <svg width="14" height="14" viewBox="0 0 32 32" fill="none"><rect width="32" height="32" rx="4" fill="#0f62fe"/><path d="M8 10h6v12H8zm10 0h6v12h-6z" fill="#fff"/></svg>
+        IBM Granite Analysis
+      </div>
+      <div class="analysis-body"></div>
+    </div>
+    <div class="grant-card-actions">
+      <a href="" target="_blank" class="btn btn-secondary btn-sm apply-link">Apply Now →</a>
+      <button class="btn btn-primary btn-sm gen-proposal-btn" onclick="">Generate Proposal</button>
+    </div>
+  </div>
+</template>
+
+<script src="/js/app.js"></script>
+</body>
+</html>

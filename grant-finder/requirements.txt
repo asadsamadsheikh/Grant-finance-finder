@@ -1,0 +1,28 @@
+# ============================================================
+# AI Grant & Funding Finder — Python Dependencies
+# Compatible with Python 3.11+
+# ============================================================
+
+# Web Framework
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+
+# HTTP Client (async — for IBM APIs)
+httpx==0.27.2
+
+# Data Validation
+pydantic==2.9.2
+pydantic-settings==2.6.1
+
+# Environment Management
+python-dotenv==1.0.1
+
+# IBM Watson SDK (Watson NLU)
+ibm-watson==8.1.0
+ibm-cloud-sdk-core==3.22.0
+
+# IBM Cloud Object Storage
+ibm-cos-sdk==2.13.6
+
+# Utilities
+python-multipart==0.0.12

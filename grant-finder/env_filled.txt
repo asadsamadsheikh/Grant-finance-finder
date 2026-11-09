@@ -1,0 +1,39 @@
+# ============================================================
+# AI Grant & Funding Finder - Environment Configuration
+# ============================================================
+
+# --- IBM watsonx.ai (Granite LLM) ---
+IBM_WATSONX_API_KEY=7tbxFiAuczEnbisKHCr1SdEUsXQHINImg-54T63jO0uQ
+IBM_WATSONX_PROJECT_ID=6fd9757d-acef-4ff2-a666-fcd11633eded
+IBM_WATSONX_URL=https://us-south.ml.cloud.ibm.com
+IBM_GRANITE_MODEL_ID=ibm/granite-3-8b-instruct
+
+# --- IBM Cloud Object Storage (COS) - Lite Plan (FREE) ---
+IBM_COS_API_KEY=your_cos_api_key_here
+IBM_COS_INSTANCE_CRN=your_cos_instance_crn_here
+IBM_COS_BUCKET_NAME=grant-finder-cache
+IBM_COS_ENDPOINT=https://s3.us-south.cloud-object-storage.appdomain.cloud
+IBM_COS_AUTH_ENDPOINT=https://iam.cloud.ibm.com/identity/token
+
+# --- IBM Watson Natural Language Understanding (NLU) - Lite Plan (FREE) ---
+IBM_NLU_API_KEY=your_nlu_api_key_here
+IBM_NLU_URL=https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/your-instance-id
+
+# --- Application Settings ---
+APP_HOST=0.0.0.0
+APP_PORT=8000
+APP_ENV=development
+SECRET_KEY=grantai_ibm_secret_key_32chars_xyz
+CORS_ORIGINS=http://localhost:3000,http://localhost:8080
+
+# --- Grant Data Sources (Public APIs - No Key Needed) ---
+GRANTS_GOV_API_URL=https://apply07.grants.gov/grantsws/rest/opportunities/search
+SAM_GOV_API_KEY=your_sam_gov_api_key_here
+
+# --- Cache & Rate Limiting ---
+CACHE_TTL_SECONDS=3600
+RATE_LIMIT_PER_MINUTE=30
+
+# --- Logging ---
+LOG_LEVEL=INFO
+LOG_FILE=logs/grant_finder.log
