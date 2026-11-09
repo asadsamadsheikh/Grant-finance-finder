@@ -1,8 +1,0 @@
-2026-11-05 17:25:00,028 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
-2026-11-05 17:25:00,028 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
-2026-11-05 17:25:00,029 [INFO] main: IBM NLU:           configured
-2026-11-05 17:25:00,029 [INFO] main: IBM COS Cache:     configured
-2026-11-05 20:24:36,416 [INFO] main: IBM Granite Model: ibm/granite-3-8b-instruct
-2026-11-05 20:24:36,416 [INFO] main: IBM watsonx URL:   https://us-south.ml.cloud.ibm.com
-2026-11-05 20:24:36,416 [INFO] main: IBM NLU:           configured
-2026-11-05 20:24:36,417 [INFO] main: IBM COS Cache:     configured

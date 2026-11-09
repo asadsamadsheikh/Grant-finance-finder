@@ -40,13 +40,13 @@ logger = logging.getLogger(__name__)
 # ── Lifespan ──────────────────────────────────────────────────────────────────
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    logger.info("🚀 AI Grant & Funding Finder starting up...")
+    logger.info("=== AI Grant & Funding Finder starting up ===")
     logger.info(f"IBM Granite Model: {os.getenv('IBM_GRANITE_MODEL_ID', 'ibm/granite-3-8b-instruct')}")
     logger.info(f"IBM watsonx URL:   {os.getenv('IBM_WATSONX_URL', 'not configured')}")
     logger.info(f"IBM NLU:           {'configured' if os.getenv('IBM_NLU_API_KEY') else 'not configured (fallback active)'}")
     logger.info(f"IBM COS Cache:     {'configured' if os.getenv('IBM_COS_API_KEY') else 'in-memory fallback active'}")
     yield
-    logger.info("👋 Grant Finder shutting down.")
+    logger.info("=== Grant Finder shutting down ===")
 
 
 # ── App Instance ─────────────────────────────────────────────────────────────
