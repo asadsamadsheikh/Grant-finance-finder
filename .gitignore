@@ -1,0 +1,18 @@
+# Secrets — never commit
+grant-finder/.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs — runtime files, not source code
+logs/
+*.log
+grant-finder/logs/
+
+# OS
+.DS_Store
+Thumbs.db
